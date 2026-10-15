@@ -2,7 +2,7 @@
 
 **Program:** THDC-IHET Python / AI-ML Preparation  
 **Student:** Divya Prakash Singh
-**Branch/Year:** B.Tech CSE  
+**Branch/Year:** B.Tech CSE 3rd year 
 **Repository purpose:** learn and Practice Python fundamentals, algorithms, know (to run) Git/GitHub, and propose a mini-project.
 
 ## 1. What this repository contains
