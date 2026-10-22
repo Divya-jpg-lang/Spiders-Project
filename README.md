@@ -23,5 +23,6 @@ python python_practice/search_sort.py
 
 On some systems, use `python3` instead of `python`. On Windows, `py` may also work.
 
-##3. My project
+3. My project
+
 Ai road accident detection and emergency alert system.
